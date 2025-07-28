@@ -1,6 +1,3 @@
-
-# Soykeviin
-
 # ¡Hola! 👋 Soy Kevin Caballero
 
 🌟 Desarrollador Front End | 💻 Apasionado por la Web | 🎨 Diseño y Funcionalidad
@@ -16,9 +13,9 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub de Kevin](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub de Kevin](https://github-readme-stats.vercel.app/api?username=soykeviin&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=soykeviin&layout=compact&theme=radical)
 
 ## 🌐 Conéctate conmigo
 
@@ -26,9 +23,9 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 [![Twitter](https://img.shields.io/badge/Twitter-@tuusuario-1DA1F2)](https://twitter.com/tuusuario)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Kevin_Caballero-green)](https://tuportafolio.com)
 
-## 📌 Pinned Repositories
+## 📌 Repositorios Destacados
 
-https://github.com/soykeviin/MGpruebaKEV-
+- [MGpruebaKEV](https://github.com/soykeviin/MGpruebaKEV): Web informativa para arquitecta.
+- [Shop](https://github.com/soykeviin/shop): Tienda de E-converse.
+
 ¡Gracias por visitar mi perfil! 😊
-
-
