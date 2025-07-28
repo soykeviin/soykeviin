@@ -11,7 +11,7 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 | HTML | React | Git | Figma |
 | CSS | Bootstrap | Vscode | Adobe |
 | JavaScript | | | |
-| TypeScript | | | |
+
 
 ## 📊 Estadísticas de GitHub
 
