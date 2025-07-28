@@ -28,8 +28,7 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 
 ## 📌 Pinned Repositories
 
-[Aquí puedes agregar algunos de tus repositorios destacados]
-
+https://github.com/soykeviin/MGpruebaKEV-
 ¡Gracias por visitar mi perfil! 😊
 
 
