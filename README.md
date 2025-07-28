@@ -19,13 +19,12 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Caballero-blue)](https://www.linkedin.com/in/tuperfil)
-[![Twitter](https://img.shields.io/badge/Twitter-@tuusuario-1DA1F2)](https://twitter.com/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Caballero-blue)](www.linkedin.com/in/kevin-caballero-3b853a365)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Kevin_Caballero-green)](https://tuportafolio.com)
 
 ## 📌 Repositorios Destacados
 
-- [MGpruebaKEV](https://github.com/soykeviin/MGpruebaKEV): Web informativa para arquitecta.
+- [MGpruebaKEV](https://soykeviin.github.io/MGpruebaKEV-/): Web informativa para arquitecta.
 - [Shop](https://github.com/soykeviin/shop): Tienda de E-converse.
 
 ¡Gracias por visitar mi perfil! 😊
