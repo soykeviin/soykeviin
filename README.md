@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**soykeviin/soykeviin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Soykeviin
 
-Here are some ideas to get you started:
+# ¡Hola! 👋 Soy Kevin Caballero
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Desarrollador Front End | 💻 Apasionado por la Web | 🎨 Diseño y Funcionalidad
+
+Soy un desarrollador front end con una gran pasión por crear experiencias web atractivas y funcionales. Me encanta trabajar en proyectos que desafíen mis habilidades y me permitan aprender y crecer constantemente.
+
+## 🛠 Tecnologías y Herramientas
+
+- Lenguajes: HTML, CSS, JavaScript, TypeScript
+- Frameworks y Librerías: React, Angular, Vue.js
+- Herramientas: Git, Webpack, Babel
+- Diseño: Figma, Adobe XD
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub de Kevin](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+
+## 🌐 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Caballero-blue)](https://www.linkedin.com/in/tuperfil)
+[![Twitter](https://img.shields.io/badge/Twitter-@tuusuario-1DA1F2)](https://twitter.com/tuusuario)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Kevin_Caballero-green)](https://tuportafolio.com)
+
+## 📌 Pinned Repositories
+
+[Aquí puedes agregar algunos de tus repositorios destacados]
+
+¡Gracias por visitar mi perfil! 😊
+
+
