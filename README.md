@@ -1,15 +1,15 @@
 # ¡Hola! 👋 Soy Kev
 
-🌟 Desarrollador Front End | 💻 Apasionado por la Web | 🎨 Diseño y Funcionalidad
+🌟 Frontend Developer  | 💻 Apasionado por la Web | 🎨 Diseño y Funcionalidad
 
 Soy un desarrollador front end con una gran pasión por crear experiencias web atractivas y funcionales. Me encanta trabajar en proyectos que desafíen mis habilidades y me permitan aprender y crecer constantemente.
 
 ## 🛠 Tecnologías y Herramientas
 
 - Lenguajes: HTML, CSS, JavaScript, TypeScript
-- Frameworks y Librerías: React, Angular, Vue.js
-- Herramientas: Git, Webpack, Babel
-- Diseño: Figma, Adobe XD
+- Frameworks y Librerías: React, bootstrap
+- Herramientas: Git, Vscode
+- Diseño: Figma, Adobe 
 
 ## 📊 Estadísticas de GitHub
 
