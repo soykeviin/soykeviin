@@ -8,14 +8,12 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 
 | Lenguajes | Frameworks y Librerías | Herramientas | Diseño |
 |-----------|------------------------|--------------|--------|
-| HTML | React | Git | Figma |
-| CSS | Bootstrap | Vscode | Adobe |
+| HTML | React | Git |
+| CSS | Bootstrap | Vscode | cursor |
 | JavaScript | | | |
 
 
 ## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub de Kevin](https://github-readme-stats.vercel.app/api?username=soykeviin&show_icons=true&theme=radical)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=soykeviin&layout=compact&theme=radical)
 
@@ -30,6 +28,8 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 | Repositorio | Descripción |
 |-------------|-------------|
 | [MGpruebaKEV](https://soykeviin.github.io/MGpruebaKEV-/) | Web informativa para arquitecta |
-| [Shop](https://github.com/soykeviin/shop) | Tienda de E-converse |
+| [Shop](https://github.com/soykeviin/shop) | Tienda de E-commerce |
+| [Ruleta](https://soykeviin.github.io/RuletaKEV/) | Ruleta de premios personalizable |
+
 
 ¡Gracias por visitar mi perfil! 😊
