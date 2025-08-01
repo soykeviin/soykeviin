@@ -8,10 +8,9 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 
 | Lenguajes | Frameworks y Librerías | Herramientas | Diseño |
 |-----------|------------------------|--------------|--------|
-| HTML | React | Git |
+| HTML | React | Git | |
 | CSS | Bootstrap | Vscode | Cursor |
 | JavaScript | | | |
-
 
 ## 📊 Estadísticas de GitHub
 
@@ -19,9 +18,9 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 
 ## 🌐 Conéctate conmigo
 
-| LinkedIn |
-|----------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Caballero-blue)](https://www.linkedin.com/in/kevin-caballero-3b853a365) | 
+| LinkedIn | Dev.to |
+|----------|--------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Caballero-blue)](https://www.linkedin.com/in/kevin-caballero-3b853a365) | [![Dev.to](https://img.shields.io/badge/Dev.to-soykeviin-black)](https://dev.to/soykeviin) |
 
 ## 📌 Repositorios Destacados
 
@@ -30,6 +29,6 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 | [MGpruebaKEV](https://soykeviin.github.io/MGpruebaKEV-/) | Web informativa para arquitecta |
 | [Shop](https://soykeviin.github.io/shop/) | Tienda de E-commerce |
 | [Ruleta](https://soykeviin.github.io/RuletaKEV/) | Ruleta de premios personalizable |
-
+| [Plinko Game](https://soykeviin.github.io/Plinko-by-kev/) | Juego de Plinko personalizable |
 
 ¡Gracias por visitar mi perfil! 😊
