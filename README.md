@@ -9,7 +9,7 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 | Lenguajes | Frameworks y Librerías | Herramientas | Diseño |
 |-----------|------------------------|--------------|--------|
 | HTML | React | Git |
-| CSS | Bootstrap | Vscode | cursor |
+| CSS | Bootstrap | Vscode | Cursor |
 | JavaScript | | | |
 
 
@@ -21,14 +21,14 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 
 | LinkedIn | Portafolio |
 |----------|------------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Caballero-blue)](https://www.linkedin.com/in/kevin-caballero-3b853a365) | [![Portafolio](https://img.shields.io/badge/Portafolio-Kevin_Caballero-green)](https://tuportafolio.com) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Caballero-blue)](https://www.linkedin.com/in/kevin-caballero-3b853a365) | [![Portafolio]()](https://tuportafolio.com) |
 
 ## 📌 Repositorios Destacados
 
 | Repositorio | Descripción |
 |-------------|-------------|
 | [MGpruebaKEV](https://soykeviin.github.io/MGpruebaKEV-/) | Web informativa para arquitecta |
-| [Shop](https://github.com/soykeviin/shop) | Tienda de E-commerce |
+| [Shop](https://soykeviin.github.io/shop/) | Tienda de E-commerce |
 | [Ruleta](https://soykeviin.github.io/RuletaKEV/) | Ruleta de premios personalizable |
 
 
