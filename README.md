@@ -21,7 +21,7 @@ Soy un desarrollador front end con una gran pasión por crear experiencias web a
 
 | LinkedIn | Portafolio |
 |----------|------------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Caballero-blue)](https://www.linkedin.com/in/kevin-caballero-3b853a365) | [![Portafolio]()](https://tuportafolio.com) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Caballero-blue)](https://www.linkedin.com/in/kevin-caballero-3b853a365) | 
 
 ## 📌 Repositorios Destacados
 
